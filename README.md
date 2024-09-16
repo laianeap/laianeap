@@ -1,5 +1,6 @@
 ## Hi there 👋
-## Olá, meu nome é **Laiane** e eu sou aluna do 1 ano A do ensino médio da turma de pensamento computacional 
+## Olá, meu nome é **Laiane** e eu sou aluna do 1 ano A do ensino médio da turma de pensamento computacional
+![https://tenor.com/pt-BR/view/turtle-funny-animal-crazy-animal-crazy-eyes-animals-with-teeth-gif-12991812]
 <!--
 **laianeap/laianeap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
