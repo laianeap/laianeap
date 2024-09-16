@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## Olá, meu nome é **Laiane** e eu sou aluna do 1 ano A do ensino médio da turma de pensamento computacional 
 <!--
 **laianeap/laianeap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
